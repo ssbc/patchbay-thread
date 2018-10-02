@@ -1,0 +1,11 @@
+TextArea {
+  color: #fff
+  letter-spacing: .5px
+  background: #000
+
+  ::placeholder {
+    color: #fff
+  }
+
+  border: 1px solid #000
+}
